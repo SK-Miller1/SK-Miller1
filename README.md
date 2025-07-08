@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SK-Miller1
 - 👀 I’m interested in a Data Analytics role.
-- 🌱 I’m currently learning Data Science at UT, Austin.
+- 🌱 I’m currently pursuing an MS Data Science degree.
 - 💞️ I’m looking to collaborate on interesting data analytics projects.
 - 📫 How to reach me 
 
