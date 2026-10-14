@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SK-Miller1
 - 👀 I’m interested in continuous growth.
-- 🌱 I’m currently pursuing an MS Data Science degree.
 - 📫 How to reach me 
 
 <!---
